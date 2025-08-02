@@ -24,7 +24,7 @@ public class Singleselect {
 		sel2.selectByValue("12");
 		
 		Select sel3 = new Select(Year);
-		sel3.selectByVisibleText("1999");
+		sel3.selectByVisibleText("2000");
 		
 	}
 
