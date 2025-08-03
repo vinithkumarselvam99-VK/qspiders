@@ -2,7 +2,6 @@ package locator;
 
 import java.util.List;
 
-import org.apache.poi.xssf.model.ExternalLinksTable;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

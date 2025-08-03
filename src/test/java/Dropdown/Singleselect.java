@@ -26,6 +26,8 @@ public class Singleselect {
 		Select sel3 = new Select(Year);
 		sel3.selectByVisibleText("2000");
 		
+		System.out.println(sel3.isMultiple());
+		
 	}
 
 }
